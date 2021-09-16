@@ -1,6 +1,8 @@
 # vmesscreator v2
 for simple create vmessWS accounts
 
-#installer
+# installer
 
-# wget -O installervm https://raw.githubusercontent.com/ryanfauzi1/vmesscreator/main/installervm && bash installervm
+```
+wget -O installervm https://raw.githubusercontent.com/ryanfauzi1/vmesscreator/main/installervm && bash installervm
+```
